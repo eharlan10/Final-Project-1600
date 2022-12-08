@@ -3,6 +3,9 @@
 ### By: Programming with Mosh
 [Link to video](https://youtu.be/94UHCEmprCY)
 
-[About the tutorial](AboutTutorial.md)
+[Information about the tutorial](AboutTutorial.md)
 ### Can this tutorial help me? Follow the link below to learn more about the target audience for this tutorial.
-[Target Audience](Target Audience.md)
+
+[Target Audience](TargetAudience.md)
+
+[Link to video](https://youtu.be/94UHCEmprCY)
